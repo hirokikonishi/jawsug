@@ -26,9 +26,7 @@ ${場所}でやります！
 ### Speakers
 #### ${登壇者名}
 
-```
 ${登壇者の紹介文}
-```
 
 ### Organizer
 ![jawsug](https://www.dropbox.com/s/ewk9exfn3zu6zzr/jaws_ug.png?raw=1)
