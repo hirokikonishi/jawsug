@@ -2,7 +2,7 @@
 jawsug event template.
 
 ```
-# JAWS-UG大阪 &{タイトル} 勉強会 開催します！
+# JAWS-UG${支部名} ${タイトル} 勉強会 開催します！
 
 - ${内容}
 
@@ -29,7 +29,7 @@ ${場所}でやります！
 ${登壇者の紹介文}
 
 ### Organizer
-![jawsug](https://www.dropbox.com/s/ewk9exfn3zu6zzr/jaws_ug.png?raw=1)
+![jawsug](https://www.dropbox.com/s${URL}?raw=1)
 
 ## ご注意事項
 [${会場スポンサー名}様 ](${会社HPリンク})のご好意で会場をご提供いただいています。
